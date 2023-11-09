@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1699545841 "/Users/aerith/warlock/NU_beamer_template/NU_beamer_template.tex" "NU_beamer_template.pdf" "NU_beamer_template" 1699545842 0
-  "/Users/aerith/warlock/NU_beamer_template/NU_beamer_template.tex" 1699545523 11581 a061ead04ccca2b51c79bf9c97e39364 ""
+["pdflatex"] 1699546576 "/Users/aerith/warlock/NU_beamer_template/NU_beamer_template.tex" "NU_beamer_template.pdf" "NU_beamer_template" 1699546577 0
+  "/Users/aerith/warlock/NU_beamer_template/NU_beamer_template.tex" 1699546576 11597 e7f52ac9ea1bcf406448e07d8764ff8e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -234,10 +234,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1699026841 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1699026790 7883458 0853eccf13d0b0f306f91297f669c289 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "NU_beamer_template.aux" 1699545842 3417 579b448c029d8e4f13c4c1f972d650fc "pdflatex"
-  "NU_beamer_template.nav" 1699545842 1513 116ae79f7b72001b0ec3e15598fc5ad7 "pdflatex"
-  "NU_beamer_template.out" 1699545842 780 23bfc695f0814afb9a7d46877380371a "pdflatex"
-  "NU_beamer_template.tex" 1699545523 11581 a061ead04ccca2b51c79bf9c97e39364 ""
+  "NU_beamer_template.aux" 1699546577 3417 579b448c029d8e4f13c4c1f972d650fc "pdflatex"
+  "NU_beamer_template.nav" 1699546577 1513 116ae79f7b72001b0ec3e15598fc5ad7 "pdflatex"
+  "NU_beamer_template.out" 1699546577 780 23bfc695f0814afb9a7d46877380371a "pdflatex"
+  "NU_beamer_template.tex" 1699546576 11597 e7f52ac9ea1bcf406448e07d8764ff8e ""
   "lockup-horizontal-short-white-rgb.eps" 1699545832 9103 5ad51a4f8f53c6f49c3d25d2e0f02e0c ""
   (generated)
   "NU_beamer_template.aux"
